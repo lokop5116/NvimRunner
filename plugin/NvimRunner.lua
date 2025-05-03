@@ -1,0 +1,1 @@
+require("NvimRunner.init").setup()
