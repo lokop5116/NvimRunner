@@ -15,6 +15,18 @@ Plugin to run your current file inside Neovim. Works by running compile command 
 
 
 
+https://github.com/user-attachments/assets/ac23de87-de6d-40b2-a65d-5d5422d8cd8c
+
+
+https://github.com/user-attachments/assets/0de9f55d-6737-4816-8168-856ec7ebd33c
+
+
+
+
+https://github.com/user-attachments/assets/c710fa00-103d-4007-925b-cf9fd57aaa87
+
+
+
 ## Languages Supported
 
 >[!warning]
